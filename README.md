@@ -9,9 +9,6 @@ A simple CRUD (Create, Read, Update, Delete) application built using React and A
 - Update user data
 - Delete user data from the list
 
-## Live Demo
-
-Check out the live demo of the project: [CRUD Using Axios Demo](https://crud-using-axios-guvi.netlify.app/)
 
 ## Screenshots
 
